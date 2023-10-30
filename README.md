@@ -1,4 +1,6 @@
-# [Add-Ons for Citavi 6](https://github.com/QSRINT/C6-Add-Ons-and-Online-Sources#add-ons-for-citavi-6)
+# CitaviAddonCollections
+This is the addon collections of Citavi 6.8 and the descriptions.
+Because many of the addons of citavi are in public archive, so I collected them and their descriptions together.
 
 # Adding DOI names from Linked PDF Files
 
@@ -326,9 +328,19 @@ You can reset the timer by clicking it again.
 
 You can find similar programs online or in the Windows Store, but this add-on is specific to your work in Citavi.
 
+# ScrollSpeedInPdfPreview
+By default, the speed at which you can scroll through PDF documents in the Citavi preview pane is determined by the settings in the Windows Control Panel. Use this add-on to make the scroll speed of your mouse or touchpad faster or slower.
 
+1. On the Tools menu, click Manage add-ons.
+2. Select the Set scroll speed add-on. Then, click Install and restart Citavi.
+3. Open a PDF file in the Citavi preview pane.
+4. In the preview pane, click Tools > Set scroll speed or press Ctrl+G.
+5. Drag the slider to a value below 1 to make the scroll speed in PDF documents slower. Select a value above 1 to scroll faster. If you want, you can also restrict the setting so that it only applies when working in full screen mode.
 
----------------------------
+************
+Above are the official addons, but in them, the `ScrollSpeedInPdfPreview` seemed to be abandoned by official.  
+
+***********
 
 # AddCitaviProjectToRecentListAddon
 
