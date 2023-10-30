@@ -1,0 +1,37 @@
+﻿[*.cs]
+
+# CA1062: Argumente von öffentlichen Methoden validieren
+dotnet_diagnostic.CA1062.severity = none
+
+# CA1031: Keine allgemeinen Ausnahmetypen abfangen
+dotnet_diagnostic.CA1031.severity = none
+
+# CA1822: Member als statisch markieren
+dotnet_diagnostic.CA1822.severity = none
+
+# CA1812: Nicht instanziierte interne Klassen vermeiden
+dotnet_diagnostic.CA1812.severity = none
+
+# CA2007: Aufruf von "ConfigureAwait" für erwarteten Task erwägen
+dotnet_diagnostic.CA2007.severity = none
+
+# CA1305: IFormatProvider angeben
+dotnet_diagnostic.CA1305.severity = none
+
+# CA1308: Zeichenfolgen in Großbuchstaben normalisieren
+dotnet_diagnostic.CA1308.severity = none
+
+# CA1304: CultureInfo angeben
+dotnet_diagnostic.CA1304.severity = none
+
+# CA1307: StringComparison angeben
+dotnet_diagnostic.CA1307.severity = none
+
+# CA1824: Assemblys mit NeutralResourcesLanguageAttribute markieren
+dotnet_diagnostic.CA1824.severity = none
+
+# IDE0040: Zugriffsmodifizierer hinzufügen
+dotnet_style_require_accessibility_modifiers = for_non_interface_members:none
+
+# S927: parameter names should match base declaration and other partial definitions
+dotnet_diagnostic.S927.severity = none
