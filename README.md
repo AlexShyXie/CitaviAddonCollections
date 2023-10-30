@@ -1,6 +1,7 @@
 # CitaviAddonCollections
 This is the addon collections of Citavi 6.8 and the descriptions.
 Because many of the addons of citavi are in public archive, so I collected them and their descriptions together.
+The code are from lutz(https://github.com/lutz) and C6-Add-Ons-and-Online-Sources(https://github.com/QSRINT/C6-Add-Ons-and-Online-Sources) which can also be found in github.
 
 # Adding DOI names from Linked PDF Files
 
