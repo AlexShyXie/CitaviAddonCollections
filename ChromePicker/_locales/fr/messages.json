@@ -1,0 +1,170 @@
+﻿{
+	"CitaviPickerDescription": {
+		"message": "Citavi Picker pour Google Chrome"
+	},
+
+	"AddKindleQuotation": {
+		"message": "In Citavi speichern"
+	},
+
+	"ShowKindleQuotation": {
+		"message": "In Citavi anzeigen"
+	},
+
+	"AddKindleReference": {
+		"message": "In Citavi speichern"
+	},
+
+	"ShowKindleReference": {
+		"message": "In Citavi anzeigen"
+	},
+	"ImportKindleReference": {
+		"message": "Titel wird importiert…"
+	},
+	
+	"AddWebPageAsReference": {
+		"message": "Ajouter la page Web en tant que référence"
+	},
+
+	"AddReferenceAndAddSelection": {
+		"message": "Ajouter la page Web en tant que référence"
+	},
+	
+	"AddSelectionAsImageQuotation": {
+		"message": "Ajouter la sélection en tant que citation d'image"
+	},
+
+	"AsImageQuotation": {
+		"message": "…en tant que citation d'image"
+	},
+	"AsCoverArt": {
+		"message": "…en tant que couverture"
+	},
+
+	"AddSelectionAsQuotation": {
+		"message": "Ajouter la sélection en tant que citation"
+	},
+
+	"AsQuotation": {
+		"message": "…en tant que citation"
+	},
+
+	"AsTableOfContents": {
+		"message": "…en tant que table des matières"
+	},
+
+	"AsKeyword": {
+		"message": "…en tant que mot-clé"
+	},
+
+	"AsAbstract": {
+		"message": "…en tant qu'abstract"
+	},
+	"CopySelectionAndURLToClipboard": {
+		"message": "Copier la sélection et l'URL dans le Presse-papiers"
+	},
+
+	"Settings": {
+		"message": "Paramètres…"
+	},
+
+	"RunCitavi": {
+		"message": "Exécuter Citavi"
+	},
+
+	"AddScreenAsScreenshot": {
+		"message": "Ajouter l'écran en tant que capture d'écran"
+	},
+
+	"AddToCitaviProjectByISBN": {
+		"message": "Ajouter au projet Citavi par ISBN"
+	},
+	"AddToCitaviProjectByDOI": {
+		"message": "Ajouter au projet Citavi par DOI"
+	},
+	"Cancel": {
+		"message": "Annuler"
+	},
+	"OK": {
+		"message": "OK"
+	},
+	"CitaviNotRunning": {
+		"message": "Citavi Picker a déterminé que Citavi n'était pas en cours d'exécution.\r\nVeuillez démarrer Citavi puis répéter cette commande."
+	},
+	"NoResultsWereFoundForTheseCriteria": {
+		"message": "Pas de résultats trouvés pour ces critères."
+	},
+	"CitaviFoundReferencesToImportDirectly": {
+		"message": "Citavi a trouvé {0} références à importer directement."
+	},
+	"ClickHereToImportTheReferences": {
+		"message": "Cliquez ici pour importer les références."
+	},
+	"ImportButton": {
+		"message": "Importer"
+	},
+	"ReferenceSentToCitavi":
+	{
+		"message": "La référence sélectionnée a été envoyé vers Citavi.\r\nIl peut y avoir un délai de quelques secondes jusqu'à ce que l'affichage de Citavi soit raffraîchi."
+	},
+	"AlreadyInProject_DOI":
+	{
+		"message": "Un article de revue avec le même nom DOI existe déjà dans le projet en cours.\r\nVoulez-vous tout de même télécharger les informations bibliographiques ?"
+	},
+	"AlreadyInProject_ISBN":
+	{
+		"message": "Un livre avec le même ISBN existe déjà dans le projet en cours.\r\nVoulez-vous tout de même télécharger les informations bibliographiques ?"
+	},
+	"OptionsDialogISBNInfo":
+	{
+		"message": "Citavi peut détecter les ISBN et les DOI sur les pages Web et les surligner avec l'icone Citavi. Cliquez sur l'icone pour lancer une recherche en ligne du livre ou de l'article. Pour choisir les catalogue dans lesquels chercher un ISBN, dans le menu Extras de Citavi, cliquez sur Options."
+	},
+	"OptionsDialogISBNCheckBox":
+	{
+		"message": "Autoriser la détection ISBN et DOI (afficher les icones)"
+	},
+	"OptionsDialogISBNTitle":
+	{
+		"message": "Détection ISBN et DOI"
+	},
+	"OptionsDialogHunterInfo":
+	{
+		"message": "Citavi peut détecter les ISBN et les DOI sur les pages Web et les surligner avec l'icone Citavi. Cliquez sur l'icone pour lancer une recherche en ligne du livre ou de l'article. Pour choisir les catalogue dans lesquels chercher un ISBN, dans le menu Extras de Citavi, cliquez sur Options."
+	},
+	"OptionsDialogHunterTitle":
+	{
+		"message": "Détecter automatiquement les résultats de recherche sur les pages web."
+	},
+	"OptionsDialogHunterCheckbox":
+	{
+		"message": "Autoriser la détection ISBN et DOI (afficher les icones)"
+	},
+	"OptionsDialogShowImportMsgboxInfo":
+	{
+		"message": "Afficher une notification lorsque le Picker transfère des informations vers Citavi avec succès."
+	},
+	"OptionsDialogShowImportMsgboxTitle":
+	{
+		"message": "Paramètres des notifications"
+	},
+	"OptionsDialogShowImportMsgboxCheckbox":
+	{
+		"message": "Afficher les notifications"
+	},
+	"ImportTitleLabel":
+	{
+		"message": "Sélectionnez les références que vous voulez importer :"
+	},
+	"Select_All":
+	{
+		"message": "Sélectionner tout"
+	},
+	"Deselect_All":
+	{
+		"message": "Annuler la sélection"
+	},
+	"VersionLabel":
+	{
+		"message": "Version :"
+	}
+ }

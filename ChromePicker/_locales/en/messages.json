@@ -1,0 +1,170 @@
+﻿{
+	"CitaviPickerDescription": {
+		"message": "Citavi Picker for Google Chrome"
+	},
+	
+	"AddKindleQuotation": {
+		"message": "In Citavi speichern"
+	},
+
+	"ShowKindleQuotation": {
+		"message": "In Citavi anzeigen"
+	},
+
+	"AddKindleReference": {
+		"message": "In Citavi speichern"
+	},
+
+	"ShowKindleReference": {
+		"message": "In Citavi anzeigen"
+	},
+	"ImportKindleReference": {
+		"message": "Titel wird importiert…"
+	},
+
+	"AddWebPageAsReference": {
+		"message": "Add webpage as reference"
+	},
+
+	"AddReferenceAndAddSelection": {
+		"message": "Add reference and add selection"
+	},
+	
+	"AddSelectionAsImageQuotation": {
+		"message": "Add selection as quotation"
+	},
+
+	"AsImageQuotation": {
+		"message": "…as image quotation"
+	},
+	"AsCoverArt": {
+		"message": "…as cover art"
+	},
+
+	"AddSelectionAsQuotation": {
+		"message": "Add selection as quotation"
+	},
+
+	"AsQuotation": {
+		"message": "…as quotation"
+	},
+
+	"AsTableOfContents": {
+		"message": "…as table of contents"
+	},
+
+	"AsKeyword": {
+		"message": "…as keyword"
+	},
+
+	"AsAbstract": {
+		"message": "…as abstract"
+	},
+	"CopySelectionAndURLToClipboard": {
+		"message": "Copy selection and URL to Clipboard"
+	},
+
+	"Settings": {
+		"message": "Settings…"
+	},
+
+	"RunCitavi": {
+		"message": "Run Citavi"
+	},
+
+	"AddScreenAsScreenshot": {
+		"message": "Add screen as screenshot"
+	},
+
+	"AddToCitaviProjectByISBN": {
+		"message": "Add to Citavi project by ISBN"
+	},
+	"AddToCitaviProjectByDOI": {
+		"message": "Add to Citavi project by DOI"
+	},
+	"Cancel": {
+		"message": "Cancel"
+	},
+	"OK": {
+		"message": "OK"
+	},
+	"CitaviNotRunning": {
+		"message": "Citavi Picker has determined that Citavi is not running.\r\nPlease start Citavi and then repeat the command you just used."
+	},
+	"NoResultsWereFoundForTheseCriteria": {
+		"message": "No Results were found for these Criteria."
+	},
+	"CitaviFoundReferencesToImportDirectly": {
+		"message": "Citavi found {0} references to import directly."
+	},
+	"ClickHereToImportTheReferences": {
+		"message": "Click here to import the references."
+	},
+	"ImportButton": {
+		"message": "Import"
+	},
+	"ReferenceSentToCitavi":
+	{
+		"message": "The selected reference was sent to Citavi.\r\nThere may be a delay of some seconds until the display in Citavi is refreshed."
+	},
+	"AlreadyInProject_DOI":
+	{
+		"message": "A journal article with the same DOI name is already in the current project.\r\nDo you still want to download the bibliographic information?"
+	},
+	"AlreadyInProject_ISBN":
+	{
+		"message": "A book with the same ISBN is already in the current project.\r\nDo you still want to download the bibliographic information?"
+	},
+	"OptionsDialogISBNInfo":
+	{
+		"message": "Citavi can detect ISBNs and DOIs on Web pages and highlight them with the Citavi icon. Click the icon to perform an online search for the book or article. To choose the catalogs to search for an ISBN, in Citavi, on the Extras menu, click Options."
+	},
+	"OptionsDialogISBNCheckBox":
+	{
+		"message": "Enable ISBN and DOI detection (show icons)"
+	},
+	"OptionsDialogISBNTitle":
+	{
+		"message": "ISBN and DOI detection"
+	},
+	"OptionsDialogHunterInfo":
+	{
+		"message": "Citavi Hunters help the Picker to detect search results on webpage."
+	},
+	"OptionsDialogHunterTitle":
+	{
+		"message": "Automatically detect search results on webpages."
+	},
+	"OptionsDialogHunterCheckbox":
+	{
+		"message": "Enable Citavi Hunter"
+	},
+	"OptionsDialogShowImportMsgboxInfo":
+	{
+		"message": "Display a notification when the Picker successfully transfers information to Citavi."
+	},
+	"OptionsDialogShowImportMsgboxTitle":
+	{
+		"message": "Settings for Notifications"
+	},
+	"OptionsDialogShowImportMsgboxCheckbox":
+	{
+		"message": "Display notifications"
+	},
+	"Select_All":
+	{
+		"message": "Select all"
+	},
+	"Deselect_All":
+	{
+		"message": "Cancel selection"
+	},
+	"ImportTitleLabel":
+	{
+		"message": "Select the references you want to import:"
+	},
+	"VersionLabel":
+	{
+		"message": "Version:"
+	}
+ }

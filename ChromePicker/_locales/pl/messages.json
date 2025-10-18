@@ -1,0 +1,170 @@
+﻿{
+	"CitaviPickerDescription": {
+		"message": "Citavi Picker dla Google Chrome"
+	},
+
+	"AddKindleQuotation": {
+		"message": "In Citavi speichern"
+	},
+
+	"ShowKindleQuotation": {
+		"message": "In Citavi anzeigen"
+	},
+
+	"AddKindleReference": {
+		"message": "In Citavi speichern"
+	},
+
+	"ShowKindleReference": {
+		"message": "In Citavi anzeigen"
+	},
+	"ImportKindleReference": {
+		"message": "Titel wird importiert…"
+	},
+	
+	"AddWebPageAsReference": {
+		"message": "Dodaj stronę internetową jako tytuł"
+	},
+
+	"AddReferenceAndAddSelection": {
+		"message": "Dodaj tytuł i zaznaczenie"
+	},
+	
+	"AddSelectionAsImageQuotation": {
+		"message": "Dodaj zaznaczenie jako cytat w obrazie"
+	},
+
+	"AsImageQuotation": {
+		"message": "…jako cytat obrazkowy"
+	},
+	"AsCoverArt": {
+		"message": "…jako okładkę"
+	},
+
+	"AddSelectionAsQuotation": {
+		"message": "Dodaj zaznaczenie jako cytat"
+	},
+
+	"AsQuotation": {
+		"message": "…jako cytat"
+	},
+
+	"AsTableOfContents": {
+		"message": "…jako spis treści"
+	},
+
+	"AsKeyword": {
+		"message": "…jako słowo kluczowe"
+	},
+
+	"AsAbstract": {
+		"message": "…as abstract"
+	},
+	"CopySelectionAndURLToClipboard": {
+		"message": "Kopiuj zaznaczenie i URL do schowka"
+	},
+
+	"Settings": {
+		"message": "Ustawienia…"
+	},
+
+	"RunCitavi": {
+		"message": "Uruchom Citavi"
+	},
+
+	"AddScreenAsScreenshot": {
+		"message": "Dodaj ekran jako zrzut"
+	},
+
+	"AddToCitaviProjectByISBN": {
+		"message": "Dodaj do projektu Citavi wg ISBN"
+	},
+	"AddToCitaviProjectByDOI": {
+		"message": "Dodaj do projektu Citavi wg DOI"
+	},
+	"Cancel": {
+		"message": "Anuluj"
+	},
+	"OK": {
+		"message": "OK"
+	},
+	"CitaviNotRunning": {
+		"message": "Citavi Picker wykrył, że Citavi nie jest uruchomione. Uruchom Citavi i powtórz polecenie, kórego przed chwilą użyłeś."
+	},
+	"NoResultsWereFoundForTheseCriteria": {
+		"message": "Brak wyników dla podanych kryteriów."
+	},
+	"CitaviFoundReferencesToImportDirectly": {
+		"message": "Citavi znalazło {0} tytułów do bezpośredniego importu."
+	},
+	"ClickHereToImportTheReferences": {
+		"message": "Kliknij tutaj, aby importować tytuły. "
+	},
+	"ImportButton": {
+		"message": "Importuj"
+	},
+	"ReferenceSentToCitavi":
+	{
+		"message": "Wybrany tytuł został wysłany do Citavi.\r\nMoże wystąpić kilkusekundowe opóźnienie zanim pojawi się w Citavi."
+	},
+	"AlreadyInProject_DOI":
+	{
+		"message": "Artykuł z czasopisma z takim samym DOI jest już w obecnym projekcie.\r\n\r\nCzy nadal chcesz pobrać informacje bibliograficzne? "
+	},
+	"AlreadyInProject_ISBN":
+	{
+		"message": "Książka z takim samym numerem ISBN jest już w obecnym projekcie.\r\n\r\nCzy nadal chcesz pobrać informacje bibligraficzne?"
+	},
+	"OptionsDialogISBNInfo":
+	{
+		"message": "Citavi wykrywa numery ISBN i DOI na stronach internetowych i podkreśla je dodając ikonę Citavi. Kliknij ikonę, aby wyszukiwać w Internecie książki lub artykuły. Aby wybrać katalogi do wyszukiwania ISBN, kliknij w Citavi Opcje w menu Narzędzia."
+	},
+	"OptionsDialogISBNCheckBox":
+	{
+		"message": "Włącz wykrywanie numeru ISBN oraz DOI (pokazuje ikonę)"
+	},
+	"OptionsDialogISBNTitle":
+	{
+		"message": "Wykrywanie ISBN oraz DOI"
+	},
+	"OptionsDialogHunterInfo":
+	{
+		"message": "Citavi Hunters pomaga Pickerowi wykryć tytuły, które mogą być imporotwane z niektórych internetowych baz danych (PubMed, Scholar, ArXiv.org). Po wyświetleniu wyników wyszukiwania, Picker wstawia niebieski pasek na samym dole strony. Kliknij pasek, aby dodać tytuły do obecnego projektu Citavi."
+	},
+	"OptionsDialogHunterTitle":
+	{
+		"message": "Automatycznie wykrywaj wyniki wyszukiwania na stronach."
+	},
+	"OptionsDialogHunterCheckbox":
+	{
+		"message": "Włącz Citavi Hunter"
+	},
+	"OptionsDialogShowImportMsgboxInfo":
+	{
+		"message": "Wyświetl powiadomienie jeśli Picker pomyślnie doda informacje do Citavi"
+	},
+	"OptionsDialogShowImportMsgboxTitle":
+	{
+		"message": "Ustawienia powiadomień"
+	},
+	"OptionsDialogShowImportMsgboxCheckbox":
+	{
+		"message": "Wyświetl powiadomienia"
+	},
+	"ImportTitleLabel":
+	{
+		"message": "Wybierz tytuły, które chcesz zaimportować:"
+	},
+	"Select_All":
+	{
+		"message": "Zaznacz wszystko"
+	},
+	"Deselect_All":
+	{
+		"message": "Anuluj zaznaczenie"
+	},
+	"VersionLabel":
+	{
+		"message": "Wersja:"
+	}
+ }

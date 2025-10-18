@@ -1,0 +1,170 @@
+﻿{
+	"CitaviPickerDescription": {
+		"message": "Picker Citavi para Google-Chrome"
+	},
+	
+	"AddKindleQuotation": {
+		"message": "In Citavi speichern"
+	},
+
+	"ShowKindleQuotation": {
+		"message": "In Citavi anzeigen"
+	},
+
+	"AddKindleReference": {
+		"message": "In Citavi speichern"
+	},
+
+	"ShowKindleReference": {
+		"message": "In Citavi anzeigen"
+	},
+	"ImportKindleReference": {
+		"message": "Titel wird importiert…"
+	},
+
+	"AddWebPageAsReference": {
+		"message": "Inserir site como título"
+	},
+
+	"AddReferenceAndAddSelection": {
+		"message": "Inserir título & Salvar marcação"
+	},
+	
+	"AddSelectionAsImageQuotation": {
+		"message": "Aplicar marcação como citação de figura"
+	},
+
+	"AsImageQuotation": {
+		"message": "…como citação de figura"
+	},
+	"AsCoverArt": {
+		"message": "…como arte final"
+	},
+
+	"AddSelectionAsQuotation": {
+		"message": "Aplicar marcação como citação"
+	},
+
+	"AsQuotation": {
+		"message": "…como citação"
+	},
+
+	"AsTableOfContents": {
+		"message": "…como sumário"
+	},
+
+	"AsKeyword": {
+		"message": "…como palavra-chave"
+	},
+
+	"AsAbstract": {
+		"message": "…como resumo"
+	},
+	"CopySelectionAndURLToClipboard": {
+		"message": "Marcação & URL na área de transferência"
+	},
+
+	"Settings": {
+		"message": "Configurações…"
+	},
+
+	"RunCitavi": {
+		"message": "Inicializar Citavi"
+	},
+
+	"AddScreenAsScreenshot": {
+		"message": "Inserir captura de tela como arte final"
+	},
+
+	"AddToCitaviProjectByISBN": {
+		"message": "Aplicar título de acordo com o ISBN no projeto Citavi"
+	},
+	"AddToCitaviProjectByDOI": {
+		"message": "Aplicar título de acordo com o DOI no projeto Citavi"
+	},
+	"Cancel": {
+		"message": "Cancelar"
+	},
+	"OK": {
+		"message": "OK"
+	},
+	"CitaviNotRunning": {
+		"message": "Picker Citavi constatou que o Citavi não está sendo executado no momento.\r\nObservar que o último comando chamado\r\nno Picker Citavi deve ser repetido após o Citavi\r\nter sido inicializado e um projeto tiver sido aberto."
+	},
+	"NoResultsWereFoundForTheseCriteria": {
+		"message": "Não foram localizados resultados para este critério."
+	},
+	"CitaviFoundReferencesToImportDirectly": {
+		"message": "Citavi localizou {0} títulos para a importação direta."
+	},
+	"ClickHereToImportTheReferences": {
+		"message": "Clique aqui para importar os títulos."
+	},
+	"ImportButton": {
+		"message": "Importar"
+	},
+	"ReferenceSentToCitavi":
+	{
+		"message": "O título selecionado foi enviado ao Citavi.\r\nA exibição no Citavi pode atrasar em alguns segundos, sob certas condições."
+	},
+	"AlreadyInProject_DOI":
+	{
+		"message": "Um artigo de jornal com endereço DOI idêntico já existe no projeto atual.\r\nVocê quer baixar os dados de título mesmo assim?"
+	},
+	"AlreadyInProject_ISBN":
+	{
+		"message": "Um livro com ISBN idêntico já existe no projeto atual.\r\nVocê quer baixar os dados de título mesmo assim?"
+	},
+	"OptionsDialogISBNInfo":
+	{
+		"message": "Citavi mostra o ícone Citavi em sites atrás de números ISB ou endereços DOI. Clique neste ícone para que o Citavi pesquise os dados bibliográficos e salve-os no projeto Citavi aberto no momento. Os catálogos para a pesquisa on-line podem ser selecionados no menu Citavi: Ferramentas > Opções > Pesquisa on-line."
+	},
+	"OptionsDialogISBNCheckBox":
+	{
+		"message": "Usar pesquisa on-line de ISBN ou DOI. O ícone Citavi é mostrado."
+	},
+	"OptionsDialogISBNTitle":
+	{
+		"message": "ISBN and DOI detection"
+	},
+	"OptionsDialogHunterInfo":
+	{
+		"message": "Em diversos bancos de dados de referências (PubMed, Scholar, ArXiv.org) é possível importar os resultados de pesquisa rapidamente com auxílio da função Hunter para o seu projeto Citavi. Para isso, o Picker mostra uma barra azul no rodapé da página após uma pesquisa on-line. Clicar na barra para aplicar os resultados mostrados no projeto Citavi aberto no momento."
+	},
+	"OptionsDialogHunterTitle":
+	{
+		"message": "Detectar os resultados de pesquisa on-line automaticamente em sites"
+	},
+	"OptionsDialogHunterCheckbox":
+	{
+		"message": "Ativar função Hunter"
+	},
+	"OptionsDialogShowImportMsgboxInfo":
+	{
+		"message": "Após ter enviado dados do seu navegador para o seu projeto Citavi, o Picker informa a conclusão da transferência de dados."
+	},
+	"OptionsDialogShowImportMsgboxTitle":
+	{
+		"message": "Settings for Notifications"
+	},
+	"OptionsDialogShowImportMsgboxCheckbox":
+	{
+		"message": "Mostrar mensagens"
+	},
+	"Select_All":
+	{
+		"message": "Select all"
+	},
+	"Deselect_All":
+	{
+		"message": "Cancel selection"
+	},
+	"ImportTitleLabel":
+	{
+		"message": "Quais títulos você quer importar?"
+	},
+	"VersionLabel":
+	{
+		"message": "Versão:"
+	}
+ }

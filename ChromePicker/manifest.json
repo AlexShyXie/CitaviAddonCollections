@@ -1,0 +1,91 @@
+﻿{
+  "name": "Citavi Picker",
+  "version": "2013.7.18",
+  "description": "__MSG_CitaviPickerDescription__",
+  "default_locale": "en",
+  "key": "piehhloihgjjiomhieeddiidpekaajio",
+  "homepage_url": "http://www.citavi.com",
+  "icons": {
+    "16": "icon.ico",
+    "48": "icon.ico",
+    "128": "icon.ico"
+  },
+  "manifest_version": 2,
+  "background":{"page": "background.html"},
+  "content_scripts": [
+  {
+    "matches": ["http://*/*", "https://*/*"],
+	"css": ["libs/css/jquery.css",
+			"libs/css/jsonSuggest.css"],
+    "js": ["libs/jquery/jquery.js",
+			"libs/jquery/jquery-ui-1.8.23.custom.js",
+			"libs/jquery/jquery.effects.bounce.js",
+			"libs/jquery/jquery.effects.clip.js",
+			"libs/jquery/jquery.effects.core.js",
+			"libs/jquery/jquery.effects.drop.js",
+			"libs/jquery/jquery.effects.explode.js",
+			"libs/jquery/jquery.effects.fade.js",
+			"libs/jquery/jquery.effects.fold.js",
+			"libs/jquery/jquery.effects.highlight.js",
+			"libs/jquery/jquery.effects.pulsate.js",
+			"libs/jquery/jquery.effects.scale.js",
+			"libs/jquery/jquery.effects.shake.js",
+			"libs/jquery/jquery.effects.slide.js",
+			"libs/jquery/jquery.effects.transfer.js",
+			"libs/jquery/jquery.ui.accordion.js",
+			"libs/jquery/jquery.ui.autocomplete.js",
+			"libs/jquery/jquery.ui.button.js",
+			"libs/jquery/jquery.ui.core.js",
+			"libs/jquery/jquery.ui.dialog.js",
+			"libs/jquery/jquery.ui.draggable.js",
+			"libs/jquery/jquery.ui.droppable.js",
+			"libs/jquery/jquery.ui.mouse.js",
+			"libs/jquery/jquery.ui.position.js",
+			"libs/jquery/jquery.ui.progressbar.js",
+			"libs/jquery/jquery.ui.resizable.js",
+			"libs/jquery/jquery.ui.selectable.js",
+			"libs/jquery/jquery.ui.slider.js",
+			"libs/jquery/jquery.ui.sortable.js",
+			"libs/jquery/jquery.ui.tabs.js",
+			"libs/jquery/jquery.ui.widget.js",
+			"libs/jquery/jquery.effects.blind.js",
+		   "libs/jquery/jquery.jsonSuggest-dev.js",
+		   "libs/jquery/jquery.jsonSuggest.js",
+		   "libs/jquery/json2.js",
+		   "citaviPickerLogger.js",
+		   "jqueryHelper.js",
+		   "html/onlineSearchProgressDialog.js",
+		   "html/optionsDialog.js",
+		   "html/importDialog.js",
+		   "isbnValidator.js",
+		   "Hunter/kindleHunter.js",
+		   "pageModifier.js",
+		    "Base64.js",
+		   "Hunter/hunterManager.js",
+		   "citaviPicker.js",
+		   "Webservice/references.js",
+		   "Webservice/transformer.js",
+		   "Webservice/fetcher.js"],
+    "all_frames" : true
+  }
+
+	],
+	"plugins": [
+    { "path": "npChromePickerCommunication.dll"}
+  ],
+  "web_accessible_resources": [
+	"html//importDialog.html",
+	"html//onlineSearchProgressDialog.html",
+	"html//optionsDialog.html"
+  ],
+  "permissions":
+	[
+	"http://*/*",
+    "https://*/*",
+	"tabs",
+	"contextMenus",
+	"https://sites.google.com/macros/",
+    "http://*.citavi.com/",
+	"fileBrowserHandler"
+	]
+}

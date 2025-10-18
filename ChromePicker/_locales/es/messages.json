@@ -1,0 +1,168 @@
+﻿{
+	"CitaviPickerDescription": {
+		"message": "Citavi Picker para Google Chrome"
+	},
+	
+	"AddKindleQuotation": {
+		"message": "In Citavi speichern"
+	},
+
+	"ShowKindleQuotation": {
+		"message": "In Citavi anzeigen"
+	},
+
+	"AddKindleReference": {
+		"message": "In Citavi speichern"
+	},
+
+	"ShowKindleReference": {
+		"message": "In Citavi anzeigen"
+	},
+	"ImportKindleReference": {
+		"message": "Titel wird importiert…"
+	},
+
+	"AddWebPageAsReference": {
+		"message": "Añadir la página web como título"
+	},
+	"AddReferenceAndAddSelection": {
+		"message": "Añadir el título y guardar el texto marcado"
+	},
+	"AddSelectionAsImageQuotation": {
+		"message": "Añadir el texto marcado como cita"
+	},
+
+	"AsImageQuotation": {
+		"message": "…como cita de imagen"
+	},
+	"AsCoverArt": {
+		"message": "…como cubierta"
+	},
+
+	"AddSelectionAsQuotation": {
+		"message": "Añadir el texto marcado como cita"
+	},
+
+	"AsQuotation": {
+		"message": "…como cita"
+	},
+
+	"AsTableOfContents": {
+		"message": "…como índice"
+	},
+
+	"AsKeyword": {
+		"message": "…como palabra clave"
+	},
+
+	"AsAbstract": {
+		"message": "…como resumen"
+	},
+	"CopySelectionAndURLToClipboard": {
+		"message": "Copiar en el portapapeles los datos marcados y el URL"
+	},
+
+	"Settings": {
+		"message": "Configuración…"
+	},
+
+	"RunCitavi": {
+		"message": "Iniciar Citavi"
+	},
+
+	"AddScreenAsScreenshot": {
+		"message": "Añadir la captura de pantalla como cubierta"
+	},
+
+	"AddToCitaviProjectByISBN": {
+		"message": "Añadir títulos al proyecto de Citavi utilizando este ISBN"
+	},
+	"AddToCitaviProjectByDOI": {
+		"message": "Añadir títulos al proyecto de Citavi utilizando el DOI"
+	},
+	"Cancel": {
+		"message": "Anuluj"
+	},
+	"OK": {
+		"message": "Aceptar"
+	},
+	"CitaviNotRunning": {
+		"message": "El Picker ha determinado que Citavi no está activo.\n\nRecuerde que tras iniciar Citavi y abrir un proyecto debe activar de nuevo el último comando utilizado en el Picker."
+	},
+	"NoResultsWereFoundForTheseCriteria": {
+		"message": "No se ha encontrado ningún resultado que coincida con sus criterios de búsqueda."
+	},
+	"CitaviFoundReferencesToImportDirectly": {
+		"message": "Citavi ha encontrado {0} títulos que se pueden importar directamente."
+	},
+	"ClickHereToImportTheReferences": {
+		"message": "Haga clic aquí para importar los títulos."
+	},
+	"ImportButton": {
+		"message": "Importar"
+	},
+	"ReferenceSentToCitavi":
+	{
+		"message": "El título seleccionado se ha enviado a Citavi.\r\nPara visualizarlo en el programa pueden ser precisos unos segundos."
+	},
+	"AlreadyInProject_DOI":
+	{
+		"message": "El presente proyecto ya contiene un artículo con este DOI.\r\n¿Quiere descargar los datos del título de todos modos?"
+	},
+	"AlreadyInProject_ISBN":
+	{
+		"message": "El presente proyecto ya contiene un libro con este ISBN.\r\n¿Quiere descargar los datos del título de todos modos?"
+	},
+	"OptionsDialogISBNInfo":
+	{
+		"message": "Citavi inserta el icono del programa tras los números ISBN y los DOI que aparezcan en una página web. Si hace clic en el icono, Citavi buscará los datos bibliográficos y los guardará en el proyecto que esté abierto. Los catálogos en los que el programa debe buscar estos datos se seleccionan en el menú: Herramientas > Opciones > Búsqueda."
+	},
+	"OptionsDialogISBNCheckBox":
+	{
+		"message": "Utilizar la búsqueda por ISBN y por DOI; se visualizará el icono de Citavi"
+	},
+	"OptionsDialogISBNTitle":
+	{
+		"message": "Auto detect ISB numbers."
+	},
+	"OptionsDialogHunterInfo":
+	{
+		"message": "La función 'Hunter' le permite importar rápidamente a su proyecto de Citavi los resultados de búsqueda localizados en distintas bases de datos bibliográficos (PubMed, Scholar, ArXiv.org, etc.). Además, el Picker muestra tras cada búsqueda una barra azul en la parte inferior de la página. Haciendo clic en esta barra se pueden insertar en el proyecto de Citavi que esté abierto los resultados de búsqueda mostrados."
+	},
+	"OptionsDialogHunterTitle":
+	{
+		"message": "Detectar automáticamente resultados de búsqueda en páginas web"
+	},
+	"OptionsDialogHunterCheckbox":
+	{
+		"message": "Activar el Hunter"
+	},
+	"OptionsDialogShowImportMsgboxInfo":
+	{
+		"message": "Después de enviar datos de su buscador al proyecto de Citavi, el Picker notificará que se ha completado el traspaso de información."
+	},
+	"OptionsDialogShowImportMsgboxTitle":
+	{
+		"message": "Mostrar los mensajes"
+	},
+	"OptionsDialogShowImportMsgboxCheckbox":
+	{
+		"message": "Activar los mensajes"
+	},
+	"ImportTitleLabel":
+	{
+		"message": "¿Qué títulos desea importar?"
+	},
+	"Select_All":
+	{
+		"message": "Select all"
+	},
+	"Deselect_All":
+	{
+		"message": "Cancel selection"
+	},
+	"VersionLabel":
+	{
+		"message": "Versión:"
+	}
+ }
