@@ -1,10 +1,8 @@
-# [Add-Ons for Citavi 6](https://github.com/QSRINT/C6-Add-Ons-and-Online-Sources#add-ons-for-citavi-6)
-# [适用于 Citavi 6 的插件](https://github.com/QSRINT/C6-Add-Ons-and-Online-Sources#add-ons-for-citavi-6)
+# [Add-Ons for Citavi 6](https://github.com/QSRINT/C6-Add-Ons-and-Online-Sources#add-ons-for-citavi-6) [适用于 Citavi 6 的插件](https://github.com/QSRINT/C6-Add-Ons-and-Online-Sources#add-ons-for-citavi-6)
 
 ---
 
-# Adding DOI names from Linked PDF Files
-# 从链接的 PDF 文件中添加 DOI 名称
+# Adding DOI names from Linked PDF Files 从链接的 PDF 文件中添加 DOI 名称
 
 如果你的项目中许多参考文献的 DOI 字段为空，但你知道附加的 PDF 文件中包含 DOI，你可以使用此插件自动将 DOI 添加到每个参考文献中。
 
@@ -15,8 +13,7 @@
 
 ---
 
-# Calculating the Page Count
-# 计算页数
+# Calculating the Page Count 计算页数
 
 如果你想确定一篇期刊文章、文集文章或贡献的页数。
 
@@ -29,8 +26,7 @@
 
 ---
 
-# Check Links and Change Access Date
-# 检查链接并更改访问日期
+# Check Links and Change Access Date 检查链接并更改访问日期
 
 你想检查项目中网页链接是否仍然有效？
 
@@ -46,8 +42,7 @@
 
 ---
 
-# Converting a Citavi 6 project to Citavi 5 format
-# 将 Citavi 6 项目转换为 Citavi 5 格式
+# Converting a Citavi 6 project to Citavi 5 format 将 Citavi 6 项目转换为 Citavi 5 格式
 
 你在 Citavi 6 中创建了一个项目。现在你想与仍在使用 Citavi 5 的人共享此项目。此加载项将 Citavi 6 数据导出为 XML 文件。
 
@@ -68,8 +63,7 @@
 
 ---
 
-# Correcting Author Names in All Caps
-# 更正全大写的作者姓名
+# Correcting Author Names in All Caps 更正全大写的作者姓名
 
 从在线数据库或在线搜索导入参考文献到 Citavi 后，你可能会注意到一些作者姓名显示为全大写。出现此问题的原因是 Citavi 只是按原样导入原始数据库中的条目。你可以通过单击 **列表** > **个人与组织** 来手动更改单个作者姓名。
 
@@ -84,8 +78,7 @@
 
 ---
 
-# Display Macros
-# 显示宏
+# Display Macros 显示宏
 
 此加载项需要 Citavi 6.8 或更高版本。
 
@@ -102,8 +95,7 @@
 
 ---
 
-# Exporting Attachments to a Folder Tree
-# 将附件导出到文件夹树
+# Exporting Attachments to a Folder Tree 将附件导出到文件夹树
 
 使用此加载项，你可以从项目中导出所有附件。
 
@@ -120,8 +112,7 @@
 
 ---
 
-# Importing folders as categories
-# 将文件夹作为类别导入
+# Importing folders as categories 将文件夹作为类别导入
 
 此加载项需要 Citavi 6.5 或更高版本。
 
@@ -140,8 +131,7 @@
 
 ---
 
-# Importing Journal Abbreviations
-# 导入期刊缩写
+# Importing Journal Abbreviations 导入期刊缩写
 
 生命科学领域的许多引文样式要求在参考文献中缩写期刊名称。例如，用缩写 *New Eng J Med* 或 *NEJM* 代替 *The New England Journal of Medicine*。在你的项目中，你可以在 **列表** > **期刊** 下双击期刊名称后手动添加缩写。
 
@@ -175,8 +165,7 @@
 
 ---
 
-# Import sequence numbers
-# 导入序号
+# Import sequence numbers 导入序号
 
 此加载项需要 Citavi 6.5 或更高版本。
 
@@ -193,8 +182,7 @@
 
 ---
 
-# Ordering Books and Articles by Email
-# 通过电子邮件订购书籍和文章
+# Ordering Books and Articles by Email 通过电子邮件订购书籍和文章
 
 此加载项需要 Citavi 6.8 或更高版本。
 
@@ -226,8 +214,7 @@
 
 ---
 
-# Reference Counts
-# 参考文献计数
+# Reference Counts 参考文献计数
 
 此加载项需要 Citavi 6.5 或更高版本。
 
@@ -249,8 +236,7 @@
 
 ---
 
-# Save Table View Selection
-# 保存表格视图选择
+# Save Table View Selection 保存表格视图选择
 
 此加载项需要 Citavi 6.4 或更高版本。
 
@@ -266,8 +252,7 @@
 
 ---
 
-# Send reference by email
-# 通过电子邮件发送参考文献
+# Send reference by email 通过电子邮件发送参考文献
 
 > **请注意：**
 > 此加载项需要 Citavi 6.8 或更高版本。它仅适用于 Microsoft Outlook 2007 及更高版本。
@@ -282,8 +267,7 @@
 
 ---
 
-# Sorting by Parent and Child References
-# 按父级和子级参考文献排序
+# Sorting by Parent and Child References 按父级和子级参考文献排序
 
 此加载项需要 Citavi 6.8 或更高版本。
 
@@ -297,8 +281,7 @@
 
 ---
 
-# Synchronized Navigation of Categories and Keywords
-# 类别和关键词的同步导航
+# Synchronized Navigation of Categories and Keywords 类别和关键词的同步导航
 
 此加载项确保在参考文献编辑器和知识组织器中选择了相同的类别或关键词。
 
@@ -309,8 +292,7 @@
 
 ---
 
-# Updating Reference Information
-# 更新参考文献信息
+# Updating Reference Information 更新参考文献信息
 
 此加载项需要 Citavi 6.5 或更高版本。
 
@@ -326,8 +308,7 @@
 
 ---
 
-# Using the Tomato Timer
-# 使用番茄计时器
+# Using the Tomato Timer 使用番茄计时器
 
 此加载项需要 Citavi 6.8 或更高版本。
 
@@ -351,8 +332,7 @@
 
 ---
 
-# ReferencesToolbox
-# 参考文献工具箱
+# ReferencesToolbox 参考文献工具箱
 
 ## 具体功能分解
 
@@ -391,3 +371,298 @@
 -   **用途**：在附件列表中右键点击一个电子文件（如PDF），选择此命令，可以直接将该文件的**本地完整路径**复制到剪贴板，非常方便用于引用或分享。
 
 ---
+
+# AddCitaviProjectToRecentListAddon (将当前项目添加到最近列表的插件)
+此插件将当前项目添加到任务栏应用程序图标的最近使用文件列表中。仅支持**桌面版**项目！
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+# JumpToLastPositionAfterActionExecutionAddon (执行操作后跳转到上次位置的插件)
+此插件在 Citavi 的 PDF 查看器的**工具**菜单中添加命令**跳转到上一个位置...**，并为其分配快捷键 <kbd>ALT</kbd>+<kbd>F3</kbd>。当通过点击文档中存储的内部链接进行跳转时，该命令会激活。在文档打开期间，它会始终保存执行跳转前的最后位置。
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+# KnownProjectsCleanerAddon (已知项目清理插件)
+此插件在您启动 Citavi 时检查桌面项目是否仍然可用，并在必要时将其从最近打开的项目列表中删除。
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+# OfflineSwitchAddon (离线模式切换插件)
+此插件在 Citavi 的主窗体中添加了两个快捷方式。第一个位于**工具** >> **上线** / **下线**，快捷键为 <kbd>CTRL</kbd>+<kbd>Q</kbd>，用于切换在线/离线模式。使用隐藏快捷键 <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Q</kbd> 可以运行从启动窗体使用该命令时显示的对话框。
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+# OpenFormsCenteredToParentAddon (窗体居中打开插件)
+此插件为所有继承自 `FormBase` 的打开窗口设置 `StartPosition` 属性为 `FormStartPosition.CenterParent`（相对于父窗体居中）。
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+# OpenWithAddon (打开方式插件)
+此插件在本地文件（**题名**选项卡）的上下文菜单中添加命令**打开方式...**，该命令会调用 Windows 资源管理器的标准对话框。这提供了使用非默认程序打开文件的可能性。
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+# PDFSplitAddon (PDF拆分插件)
+此插件为本地 PDF 文件的上下文菜单添加一个新功能。此功能允许您为父级参考文献的子级题名裁剪 PDF 文件。
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Usage (使用方法)
+注意：此插件只能用于本地（!）项目，不能用于云项目。同样重要的是，此插件只能用于父级参考文献中的贡献（Contributions）。此插件从整本书的 PDF 中提取所需页面，并将它们作为附件分配给每个贡献。
+请遵循以下步骤：
+1. 安装 Citavi 6 的最新更新 [下载](https://www.citavi.com/download)。您也可以[在此处查看](https://www.citavi.com/beta)是否有包含所有最新错误修复的测试版。
+2. 关闭 Citavi 6。
+3. 在[插件页面](https://github.com/lutz/PDFSplitAddon)上，点击 `Release` 部分的 [releases](https://github.com/lutz/PDFSplitAddon/releases)，并下载那里链接的插件 ZIP 文件。
+4. 右键单击 ZIP 文件并单击 `全部解压缩` 来解压插件。
+5. 将所有解压的文件复制到目录 `{Citavi 安装目录}\AddOns`（通常是 `C:\Program Files (x86)\Citavi 6\AddOns`）。如果您尚未安装手动插件，则必须先自行创建子文件夹 `Addons`。<img width="766" alt="Add-on - PDFSplitAddon - Ansicht nach dem Kopieren der extrahierten Dateien" src="https://user-images.githubusercontent.com/31404555/115747883-f3c28c00-a395-11eb-91d8-26f34cde9be4.png">
+6. 再次启动 Citavi 6 并打开您的本地项目。
+7. 添加编辑过的书籍（包括 PDF 文件）以及您需要的所有贡献，请参阅[手册](https://www1.citavi.com/sub/manual6/en/index.html?101_adding_a_contribution_in_an_edited_book.html)。
+8. 在编辑过的书籍的**参考文献**选项卡中，右键单击 PDF 文件，然后单击 `拆分 PDF`。<img width="664" alt="Add-on - PDFSplitAddon - EN" src="https://user-images.githubusercontent.com/31404555/115747710-cd9cec00-a395-11eb-9566-8a17202dd40c.png">
+9. 选择需要根据相应页面创建 PDF 的贡献。请务必输入物理页码，例如，如果书籍包含一些罗马数字的页码部分，或者由于其他原因逻辑页码（每页上打印的页码）不同。
+10. 点击 `OK`。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+# PDFThumbnailAddon (PDF缩略图插件)
+此插件在 Citavi 的 PDF 查看器的搜索栏中插入页面预览。
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+# RemoveLocalProjectAddon (移除本地项目插件)
+此插件在启动窗体的每个**本地**项目条目的 **...** 对话框中添加一个 <kbd>移除项目..</kbd> 命令。该命令会删除**附件文件夹**和 `*.ctv` 文件的**父文件夹**。
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+# SetPDFSelectionAsAddon (将PDF选区设为插件)
+此插件在 Citavi 的 PDF 查看器的**更多**菜单中添加新命令，以将文本选区用作题名数据。
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+# SynchronizeFiltersWithFullscreenPreviewAddon (筛选器与全屏预览同步插件)
+此插件将筛选后的题名列表与同一项目的所有打开的全屏预览同步。这使您也可以在全屏预览中对选定的题名使用**导出 PDF 注释...**功能。
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+# AutoRefAddon (自动引用插件)
+此插件为 Citavi 的宏编辑器添加了一个新功能，用于包含自定义引用程序集的指令。每次用户保存宏代码时，插件会向代码文件添加注释。当用户重新打开宏时，注释将被移除，程序集将被添加到内部的宏编辑器编译器服务中。
+## Format of comment (注释格式)
+```csharp
+// autoref "[ASSEMBLYPATH]"
+```
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+# CitaviAddOnEx (Citavi插件扩展库)
+此代码库包含一个类库，它扩展了 Swiss Academic Citavi 的插件编程模型，以支持所有继承自 `FormBase` 类的对话框。
+## Getting Started (入门指南)
+### Prerequisites (先决条件)
+使用此库为 Citavi 编程插件的最简单方法是，从 [nuget.org](https://www.nuget.org/packages/CitaviAddOnEx/1.0.3) 包含最新版本并将其随附。Citavi 应安装在默认目录（`C:\Program Files (x86)\Citavi 6`）中。可以使用 Microsoft Visual Studio 2019 Community Edition 作为开发环境。
+Citavi 6 使用的目标框架是 .net Framework 4.6.1。
+### Programming (编程)
+```csharp
+using SwissAcademic.Citavi.Shell;
+using SwissAcademic.Controls;
+using System;
+using System.Windows.Forms;
+namespace [NAMESPACE]
+{
+    public class [CLASSNAME] : CitaviAddOnEx<T>
+    {
+        // 通过 System.Windows.Forms.Application.Idle 事件调用，可用于检查例如按钮状态是否更改
+        public override void OnApplicationIdle(T form)
+        {
+        }
+       
+        // 在每个 T 类型的窗体加载时调用
+        public override void OnHostingFormLoaded(T form)
+        {
+           
+        }
+        
+        // 在每个 T 类型的窗体关闭时调用
+        public virtual void OnHostingFormClosed(T form) 
+        { 
+           
+        }
+        // 当用户在窗体中点击某项时调用
+        public override void OnBeforePerformingCommand(T form, BeforePerformingCommandEventArgs e)
+        {
+           
+        }
+        // 当应用程序语言更改时调用
+        public override void OnLocalizing(T form)
+        {
+            
+        }
+    }
+}
+```
+
+要开发插件，您需要从 `CitaviAddOnEx<T>` 类派生，并根据需要实现相应的方法。`T` 必须是一个从 Citavi 模型提供的基类 `FormBase` 派生的窗体。
+**示例**
+- MainForm
+- KnowledgeItemFileForm
+- MacroEditor
+如果指定了提供固有插件支持的窗体，该类将使用它。
+## Wiki (维基)
+一些额外信息可以在 [wiki](../..//wiki) 中找到。
+## Projects (项目)
+[FormatCodeAddon](https://github.com/lutz/FormatCodeAddon) 使用此库来扩展宏编辑器，您可以查看它以获取帮助。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+
+# CopyTextOfSelectedAnnotationAddon (复制所选注释文本的插件)
+此插件为 Citavi 的 PDF 查看器添加一个新功能，用于复制所选 Citavi 高亮标记的文本。选择**一个** Citavi 高亮标记，并使用快捷键组合 <kbd>SHIFT</kbd>+<kbd>C</kbd> 将文本复制到剪贴板。
+支持以下 Citavi 高亮标记：
+- *直接引语*
+- *间接引语*
+- *摘要*
+- *评论*
+- *任务*
+- *摘要*
+- *目录*
+- *高亮*
+- *红色高亮*
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+
+# DocFetcherSelectionAddon (DocFetcher选择插件)
+此插件在**编辑**菜单中添加一个命令，用于将通过剪贴板转换的 DocFetcher 查找到的文件转换为 Citavi 中的题名选择。
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+
+# FilterOpenProjectsAddon (筛选打开项目插件)
+此插件为 Citavi 的打开项目对话框添加了按名称筛选项目列表的功能。
+![Test](/assets/screenshot.png)
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+
+# GoToPdfPageAddon (跳转到PDF页面插件)
+此插件添加一个新命令**跳转到PDF页面**，快捷键为 <kbd>CTRL</kbd>+<kbd>J</kbd>，用于跳转到预览中当前打开的 PDF 文档的物理页码或（如果可用）逻辑页码。
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+
+# HideKnowledgeItemFileFormHelpBoxAddon (隐藏知识项目文件窗体帮助框插件)
+此插件隐藏图片引语编辑或文件引语编辑对话框中的帮助框。当在小屏幕上使用 Citavi 时，这尤其有用。
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+
+# HideKnowledgeItemTextFormHelpBoxAddon (隐藏知识项目文本窗体帮助框插件)
+此插件隐藏引语编辑对话框中的帮助框。当在小屏幕上使用 Citavi 时，这尤其有用。
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+
+
+# PDFSplitAddon (PDF拆分插件)
+此插件为本地 PDF 文件的上下文菜单添加一个新功能。使用此功能，您可以为父级作品的 PDF 文件裁剪出子级题名的各个部分。
+## Veröffentlichungen (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Anwendung (使用方法)
+注意：此插件只能用于本地（!）项目，不能用于云项目。同样重要的是，此插件只能用于包含子级题名的父级作品。此插件从整本书的 PDF 中提取所需页面，并将它们作为附件分配给每个贡献。请事先在每个贡献的 `Seiten von-bis`（页码从-到）字段中记录贡献的页码范围。
+请按以下步骤操作：
+1. 如果尚未完成或您正在使用较旧的 Citavi 6 版本，请将 Citavi 更新到当前版本。如果未自动提供更新，您可以从 https://www.citavi.com/download 下载当前安装程序并直接安装（无需事先卸载）。所有用 Citavi 收集的数据保持不变。您也可以[在此处](https://www.citavi.com/beta)查看是否有包含所有最新错误修复的 Beta 版本。
+2. 关闭 Citavi。
+3. 在[插件页面](https://github.com/lutz/PDFSplitAddon)的 `Release` 部分中，点击 [releases](https://github.com/lutz/PDFSplitAddon/releases) 链接，并下载那里链接的插件 ZIP 文件。
+4. 右键单击下载的 ZIP 文件，然后选择 `全部解压缩` 来解压文件。
+5. 将所有解压的文件复制到目录 `{Citavi 安装目录}\AddOns`（通常是 `C:\Program Files (x86)\Citavi 6\AddOns`）。如果您尚未安装手动插件，则必须先自行创建 `AddOns` 子文件夹。之后，它应该如下所示：<img width="766" alt="Add-on - PDFSplitAddon - Ansicht nach dem Kopieren der extrahierten Dateien" src="https://user-images.githubusercontent.com/31404555/115750654-af84bb00-a398-11eb-98be-2e330e8e393a.png">
+6. 重新启动 Citavi 并打开您的本地（!）项目。
+7. 如果尚未完成，请收录文集（Sammelwerk）及其 PDF 文件以及您需要的所有贡献，请参阅[手册](https://www1.citavi.com/sub/manual6/de/index.html?101_adding_a_contribution_in_an_edited_book.html)。
+8. 在父级文集的 `Titel`（题名）选项卡中，右键单击最下方的 PDF 文档，然后在上下文菜单中点击 `PDF teilen`（拆分 PDF）条目。<img width="664" alt="Add-on - PDFSplitAddon - DE" src="https://user-images.githubusercontent.com/31404555/115750674-b6133280-a398-11eb-9eed-bd7b99720ca8.png">
+9. 选择需要根据所选页面创建 PDF 的贡献。请注意，如果书籍例如包含一些罗马数字的页码部分，或者逻辑页码（每页上打印的页码）因其他原因不同，请务必输入物理页码。
+10. 点击 `OK`。
+## Disclaimer (免责声明)
+> 对 **Swiss Academic Software GmbH**（**Citavi** 提供商）公司或对问题或数据损失的其他责任索赔均不提供支持声明。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标的所有权均归 **Swiss Academic Software GmbH** 公司所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+
+# AddCitaviProjectToRecentListAddon (将当前项目添加到最近列表的插件 - 重复条目)
+此插件将当前项目添加到任务栏应用程序图标的最近使用文件列表中。仅支持**桌面版**项目！
+## Releases (发布版本)
+编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
+## Disclaimer (免责声明)
+>本公司 **Swiss Academic Software GmbH**（**Citavi** 提供商）对此插件不提供任何支持声明，也不对问题或数据损失承担任何责任。任何使用均由您自行承担风险。**Citavi** 的名称及所有使用的徽标均归 **Swiss Academic Software GmbH** 所有。
+## License (许可证)
+本项目基于 [MIT](LICENSE) 许可证授权。
+# ReferencesToolbox (参考文献工具箱)
+具体功能分解
+我们可以从它的用户界面入口和后台处理逻辑来理解其具体功能。
+## 1. 主要功能入口（在 ReferencesToolboxUI.cs 中定义）
+这个插件在Citavi的“参考文献”菜单中添加了三个主要命令：
+## ParallelReportersParse (并引报告解析)
+中文名参考：Parallelfundstellen als eigene Parallelfundstellentitel erfassen (将并引报告记录为独立的并引标题)
+快捷键：Ctrl + Shift + P
+用途：这是插件最核心的功能。当你选中一个或多个法律条目后执行此命令，它会：
+解析引文信息：从条目的 CustomField1、CustomField2 和 TitleSupplement 字段中提取混杂在一起的多个报告信息（例如："SCC 34" and "DLR (3d) 345"）。
+标准化日期：将条目的日期格式（如 “1 January 2023”）统一转换为ISO标准格式（“2023-01-01”）。
+拆分并引报告：将解析出的每一个报告都创建为一个新的、独立的参考文献条目。
+填充字段：为每个新条目正确填充 Periodical (期刊)、Year (年份)、Volume (卷)、Number (期)、PageRange (页码) 等核心字段。
+清理原条目：将原始条目的第一个报告信息保留，并清空用于解析的临时字段。
+## ShorthandChangeInParallelReporters (在并引报告中更改简称)
+中文名参考：Kurzbezeichnung in allen Parallelfundstellentiteln ändern (在所有并引标题中更改简称)
+用途：当你修改一个案例的引注键（Citation Key，即短标题）时，这个功能可以自动将所有与之相关的并引报告条目的引注键也同步修改，确保同一个案例的不同报告版本拥有统一的引注键。
+## PageRangeAssign (分配页码范围)
+中文名参考：Seitenbereich anhand der Startseite und der PDF-Anlage berechnen (根据起始页和PDF附件计算页码范围)
+用途：这个功能在提供的代码中没有具体实现，但从命名和上下文推断，它应该是用来根据你输入的起始页码和关联的PDF附件，自动计算出总页数并填充到 PageRange 字段。
+## 2. 附加功能（在右键菜单中）
+CopyLocationPathToClipboard (复制文件路径到剪贴板)
+中文名参考：Dateipfad in Zwischenablage kopieren
+用途：在附件列表中右键点击一个电子文件（如PDF），选择此命令，可以直接将该文件的本地完整路径复制到剪贴板，非常方便用于引用或分享。
