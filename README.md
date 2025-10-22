@@ -576,7 +576,7 @@ namespace [NAMESPACE]
 
 # FilterOpenProjectsAddon (筛选打开项目插件)
 此插件为 Citavi 的打开项目对话框添加了按名称筛选项目列表的功能。
-![Test](/assets/screenshot.png)
+![](vx_images/496191387862246.png)
 ## Releases (发布版本)
 编译后的库文件可在 [releases](./../../releases) 中以归档形式找到。
 ## Disclaimer (免责声明)
