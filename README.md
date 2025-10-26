@@ -214,6 +214,71 @@
 
 ---
 
+# QuotationsToolbox
+## **核心概念解析**
+1.  **Reference (文献)**
+    *   这是学术研究的基础，代表一篇完整的文献，比如一本书、一篇期刊文章、一个报告等。
+    *   在 Citavi 项目中，每一条 `Reference` 都有一个唯一的条目。
+2.  **Knowledge Item (知识条目/引文)**
+    *   这是从 `Reference` 中提取出来的、具体的知识点或信息片段。
+    *   它有不同的类型，例如：
+        *   `Direct Quotation` (直接引文)：原文引用。
+        *   `Indirect Quotation` (间接引文)：释义或转述。
+        *   `Summary` (摘要)：对某部分内容的总结。
+        *   `Comment` (评论)：您自己的思考和评价。
+        *   `Quick Reference` (快速参考)：一个简短的备忘。
+    *   `Knowledge Item` 是您知识管理的核心单元。
+3.  **Annotation (批注)**
+    *   这是在 PDF 文档页面上可见的标记，比如高亮、下划线、便签等。
+    *   在 Citavi 的内部架构中，`Annotation` 主要是一个**位置标记**。它记录了 `Knowledge Item` 在 PDF 文件中的具体位置（页码、坐标区域）。
+    *   **关键点**：Citavi 中的 `Annotation` 本身不直接存储引文文本，它更像是一个“锚点”，通过 `EntityLink`（实体链接）与一个 `Knowledge Item` 关联起来。
+**它们的关系是：一个 `Reference`（文献）可以包含多个 `Knowledge Item`（知识条目），而每个 `Knowledge Item` 可以通过一个 `Annotation`（批注）链接到该文献 PDF 的具体位置。**
+---
+### **QuotationsToolbox 功能详解 (使用英文术语)**
+现在，我们用这三个清晰的术语来重新审视工具的功能：
+### **功能一：从 PDF 导入批注 (`AnnotationsImporter`)**
+这个功能的核心是**将外部的 PDF 批注转换为 Citavi 内部的 `Knowledge Item` 和 `Annotation`**。
+*   **工作流程**：
+    1.  您在 Citavi 中打开一个 PDF 文件（这个 PDF 已经链接到一个 `Reference`）。
+    2.  运行导入宏。程序会扫描 PDF，识别出所有高亮 `Annotation` 的颜色。
+    3.  弹出一个颜色选择器，让您选择要导入哪些颜色的 `Annotation`。
+    4.  对于每一个选中的 PDF `Annotation`：
+        *   **智能匹配**：程序会检查 Citavi 中是否已存在一个 `Annotation`，其位置与 PDF 上的高亮区域完全匹配。如果匹配，它会用 PDF 高亮中的文本内容**更新**那个 `Annotation` 所关联的 `Knowledge Item`，而不是创建新的。
+        *   **创建新内容**：如果没有匹配的现有 `Annotation`，程序会：
+            a.  创建一个新的 `Knowledge Item`（类型可以是直接引文、评论等，由您运行的宏决定）。
+            b.  如果 PDF 高亮带有笔记文本，就用这个笔记作为 `Knowledge Item` 的内容。
+            c.  如果高亮是空的（没有笔记），程序会尝试捕获高亮覆盖的原始 PDF 文本作为 `Knowledge Item` 的内容。
+            d.  创建一个**新的、不可见的内部 `Annotation`**，并将这个新创建的 `Knowledge Item` 与这个内部 `Annotation` 关联起来。这个内部 `Annotation` 就像一个“锚”，精确记录了该 `Knowledge Item` 在 PDF 中的位置。
+*   **解决的问题**：您在其他软件（如 Adobe Acrobat, Foxit Reader）中阅读文献并做的标记，现在可以无缝地导入到 Citavi，成为结构化的 `Knowledge Item`。
+### **功能二：导出批注到 PDF (`AnnotationsExporter`)**
+这个功能与导入相反，它**将 Citavi 项目中的 `Knowledge Item` 信息写回到 PDF 文件中，形成标准的、可见的 PDF `Annotation`**。
+*   **工作流程**：
+    1.  您在 Citavi 项目中选择一个或多个 `Reference`。
+    2.  运行导出宏。程序会处理每个选中的 `Reference` 及其关联的 PDF 文件。
+    3.  程序会找到所有与该 `Reference` 关联的、并且链接了内部 `Annotation` 的 `Knowledge Item`。
+    4.  对于每一个这样的 `Knowledge Item`：
+        a.  程序会根据其 `Knowledge Item` 的**类型**（评论、直接引文等），使用**预设的特定颜色**在 PDF 上创建一个高亮 `Annotation`。
+        b.  `Knowledge Item` 的文本内容会被写入这个高亮 `Annotation` 的“内容”或“笔记”字段。
+        c.  高亮 `Annotation` 的位置和形状，则由那个关联的内部 `Annotation`（“锚”）提供。
+    5.  导出前，程序会先清除 PDF 中所有已存在的高亮 `Annotation`，以确保导出的是干净、一致的结果。
+*   **解决的问题**：您在 Citavi 中精心整理的 `Knowledge Item`，现在可以导出回 PDF，方便您在没有 Citavi 的设备上阅读，或者与他人分享带有您引文标记的文献。
+### **功能三：批注与引文管理 (`AnnotationsAndQuotationsMerger`, `AnnotationSimplifier`)**
+这些是高级管理功能，用于优化您在 Citavi 内部的 `Annotation` 和 `Knowledge Item`。
+*   **合并批注和引文 (`AnnotationsAndQuotationsMerger`)**：
+    *   允许您将多个 `Annotation`（及其关联的 `Knowledge Item`）合并为一个。
+    *   程序会创建一个新的、覆盖所有选中区域的大 `Annotation`，并将旧的 `Annotation` 隐藏。
+    *   同时，它会创建一个新的 `Knowledge Item`，其文本内容是所有被合并的 `Knowledge Item` 文本的合并。
+    *   这对于处理跨页或跨段落的引文非常有用。
+*   **简化批注 (`AnnotationSimplifier`)**：
+    *   一些 PDF 阅读器创建的 `Annotation` 是由许多微小、不规则的矩形组成的，这会影响匹配的准确性。
+    *   此功能可以将这些复杂的 `Annotation` 简化为几个大的、覆盖相同区域的规则矩形，从而提高后续导入和匹配的可靠性。
+---
+### **总结**
+QuotationsToolbox 本质上是一个**桥梁**，它在 Citavi 的内部数据结构（`Reference`, `Knowledge Item`, `Annotation`）和 PDF 文件的外部表现形式（高亮 `Annotation`）之间建立了强大的双向同步通道。
+*   **导入时**：它将外部的、无结构的 PDF `Annotation` 转换为 Citavi 内部结构化的 `Knowledge Item` 和作为“锚”的内部 `Annotation`。
+*   **导出时**：它将 Citavi 内部结构化的 `Knowledge Item` 和作为“锚”的内部 `Annotation` 转换为外部的、可见的、有颜色的 PDF `Annotation`。
+通过使用 `Reference`, `Knowledge Item`, `Annotation` 这三个精确的术语，我们可以更清晰地理解：这个工具让您能够自由地在 PDF 阅读器和 Citavi 知识管理系统之间移动和同步您的学术工作成果，而不会丢失任何信息或结构。
+
 # Reference Counts 参考文献计数
 
 此加载项需要 Citavi 6.5 或更高版本。
